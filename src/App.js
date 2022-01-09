@@ -13,7 +13,7 @@ function App() {
   return (
   
     <div className="App">
-      <div className="main" >
+      <div className="main">
 <div className="header"><div><img src="https://res.cloudinary.com/urbanclap/image/upload/images/growth/home-screen/1631097450980-d2de38.png"></img></div>
 <div className="header2"><p>Blog</p><p className="p">RegisterAsAProfessional</p><p>Login/SignUp</p></div>
 </div>
